@@ -4,7 +4,6 @@
 
 I'm a results-driven DevOps Engineer with a passion for optimizing cloud infrastructure and streamlining development processes. With an MS in Computer Science and 3+ years of hands-on experience, I thrive on tackling complex challenges in the world of cloud computing and automation.
 
-
 ![image](https://github.com/user-attachments/assets/a2c8362c-d4ea-4ed3-b7c4-dff706437b66)
 
 💼 Professional Highlights:
