@@ -1,5 +1,5 @@
-👋 Hello, I'm Lakshmi Sudha!
-🚀 DevOps Engineer | ☁️ AWS Enthusiast | 🐳 Docker Aficionado
+-👋 Hello, I'm Lakshmi Sudha!
+-🚀 DevOps Engineer | ☁️ AWS Enthusiast | 🐳 Docker Aficionado
 I'm a results-driven DevOps Engineer with a passion for optimizing cloud infrastructure and streamlining development processes. With an MS in Computer Science and 3+ years of hands-on experience, I thrive on tackling complex challenges in the world of cloud computing and automation.
 💼 Professional Highlights:
 🛠️ Increased deployment frequency by 25% while maintaining 99.9% uptime
