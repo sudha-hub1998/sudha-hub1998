@@ -1,47 +1,31 @@
 👋 Hello, I'm Lakshmi Sudha!
 
-🚀 DevOps Engineer | ☁️ AWS Enthusiast | 🐳 Docker Aficionado
+📊 Analytics Business Analyst | 🔍 Data-Driven Decision Maker | ☁️ Cloud & Visualization Enthusiast
 
-I'm a results-driven DevOps Engineer with a passion for optimizing cloud infrastructure and streamlining development processes. With an MS in Computer Science and 3+ years of hands-on experience, I thrive on tackling complex challenges in the world of cloud computing and automation.
+I'm a results-oriented Analytics Business Analyst passionate about turning raw data into actionable insights. With an MS in Computer Science and 2.5+ years of experience in data analytics, BI reporting, and cloud-based data engineering, I thrive on uncovering trends, optimizing business processes, and driving strategic decisions through data.
 
-![image](https://github.com/user-attachments/assets/a2c8362c-d4ea-4ed3-b7c4-dff706437b66)
+💼 Professional Highlights
+📈 Increased operational efficiency by 15% through custom-built dashboards and predictive analytics
+📊 Automated reporting processes, reducing manual work by 35% and increasing reporting accuracy
+📌 Delivered insights from A/B testing and KPI tracking, leading to a 20% improvement in customer engagement
 
-💼 Professional Highlights:
+🔧 Tech Stack
+📊 Data Analytics: Python (Pandas, NumPy, Seaborn), SQL (joins, CTEs, window functions), Excel (VLOOKUP, pivot tables)
 
-🛠️ Increased deployment frequency by 25% while maintaining 99.9% uptime
+📈 Visualization Tools: Power BI, Tableau, Looker Studio
 
-💰 Reduced operational costs by 20% through effective monitoring solutions
+☁️ Cloud & Big Data: Google Cloud (BigQuery, Dataflow), AWS (S3, Lambda), ETL pipelines
 
-🏗️ Led migration of 50+ applications to containerized environments, improving resource utilization by 30%
+🛠️ Tools: GitHub, JIRA, Confluence, Agile (Scrum/Kanban)
 
-🔧 Tech Stack:
+🌟 What I Bring to the Table
+🔍 Analytical mindset with a deep understanding of business objectives
+📊 Expertise in translating data into meaningful visualizations and reports
+🤝 Strong communication and stakeholder collaboration skills
+🚀 A drive for continuous learning and optimizing data pipelines and tools
 
-
-☁️ AWS (EC2, S3, Lambda, ECS, RDS)
-
-🔄 CI/CD (Jenkins, GitLab, CircleCI)
-
-📦 Containerization (Docker, Kubernetes)
-
-🏗️ IaC (Terraform, CloudFormation)
-
-🤖 Configuration Management (Ansible)
-
-📊 Monitoring (CloudWatch, Prometheus, ELK stack)
-
-🌟 What I Bring to the Table:
-
-
-🧠 Problem-solving mindset with a knack for optimizing cloud architectures
-
-🤝 Strong collaborator, bridging the gap between development and operations
-
-📚 Continuous learner, always exploring cutting-edge DevOps practices
-
-🎯 Current Focus:
-
-
-Leveraging my expertise in multi-cloud deployments and DevOps culture to drive innovation and efficiency in software development lifecycles.
+🎯 Current Focus
+Building scalable data models and BI dashboards that empower leadership to make data-backed decisions. I'm passionate about bridging the gap between data and business through impactful storytelling and analytics.
 
 📫 Let's Connect:
 
